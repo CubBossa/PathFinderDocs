@@ -1,0 +1,16 @@
+{
+  "pages": [
+    {
+      "name": "setup"
+    },
+    {
+      "name": "xyz",
+      "children": [
+        {
+          "name": "effects",
+          "markdown": "effects"
+        }
+      ]
+    }
+  ]
+}
