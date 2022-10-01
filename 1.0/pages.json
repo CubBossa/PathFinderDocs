@@ -22,7 +22,8 @@
       "children": [
         {
           "name": "what_are_roadmaps",
-          "label": "What are Roadmaps"
+          "label": "What are Roadmaps",
+          "markdown": "what_are_roadmaps"
         },
         {
           "name": "roadmap_editmode",

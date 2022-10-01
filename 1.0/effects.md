@@ -1,3 +1,5 @@
+# Effects
+
 ## What is NBO and how does it work
 
 NBO files are made to serialize and deserialize objects which stand in relation to each other.
