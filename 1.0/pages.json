@@ -1,6 +1,11 @@
 {
   "pages": [
     {
+      "name": "introduction",
+      "label": "Introduction",
+      "markdown": "introduction"
+    },
+    {
       "name": "getting_started",
       "label": "Getting Started",
       "children": [
@@ -27,7 +32,8 @@
         },
         {
           "name": "roadmap_editmode",
-          "label": "Using the Edit Mode"
+          "label": "Using the Edit Mode",
+          "markdown": "using_editmode"
         }
       ]
     },
@@ -41,14 +47,15 @@
       "children": [
         {
           "name": "effects",
-          "label": "effects",
+          "label": "Effects",
           "markdown": "effects"
         }
       ]
     },
     {
       "name": "api",
-      "label": "Developers API"
+      "label": "Developers API",
+      "markdown": "api"
     }
   ]
 }

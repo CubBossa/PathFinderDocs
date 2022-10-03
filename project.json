@@ -1,14 +1,17 @@
 {
   "key": "pathfinder",
   "name": "PathFinder",
-  "github-link": "lul",
+  "links": {
+    "github": "https://github.com/CubBossa/PathFinder",
+    "download": "https://www.spigotmc.org/resources/gps-pathfinder-minecraft-pathfinding-tool.104961/"
+  },
   "colors": {
-    "main-1": "#123456",
-    "main-2": "#123456",
-    "main-3": "#123456",
-    "contrast-1": "#123456",
-    "contrast-2": "#123456",
-    "contrast-3": "#123456"
+    "main-light": "#123456",
+    "main-medium": "#123456",
+    "main-dark": "#123456",
+    "contrast-light": "#123456",
+    "contrast-medium": "#123456",
+    "contrast-dark": "#123456"
   },
   "versions": [
     "1.0"
