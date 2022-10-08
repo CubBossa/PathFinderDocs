@@ -7,6 +7,9 @@ The PathFinder Plugin is an extension for your Minecraft server. It allows your 
 The calculated shortest path can be visualized in a variety of ways by default. If these visualizer types are not sufficient for your project, new visualizer types can easily be added via developers API as extension to PathFinder.
 
 ![Example Path](src/assets/markdown/pathfinder/images/path_example.png)
+![Example Path](../images/path_example.png)
+![Example Path](/src/assets/markdown/pathfinder/images/path_example.png)
+![Example Path](assets/markdown/pathfinder/images/path_example.png)
 *Example path through a version of hogwarts that we built some time ago.*
 
 ## How does it work?
